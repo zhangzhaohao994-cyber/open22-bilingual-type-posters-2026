@@ -1,11 +1,34 @@
 {
-  "date": "2026-10-17",
-  "revision": "borderless-v2",
-  "posterCount": 15,
+  "revision": "17-poster-reference-pair",
+  "posterCount": 17,
   "dimensions": "1200x1800",
-  "requiredPerPoster": {"artists": 12, "teamMembers": 8, "facts": 7},
-  "copyCorrections": ["Highest", "（）", "Mia"],
-  "minimumTypeSizes": "passed",
-  "visualTitleCollisionReview": "passed after repairs to posters 07, 08, 11 and 12",
-  "designChange": "Removed repeated boxes, cards, row rules and shared footer templates; rebuilt layouts as continuous typographic fields."
+  "requiredCounts": {
+    "artists": 12,
+    "teamMembers": 8,
+    "facts": 7
+  },
+  "newPosters": {
+    "16": "white background / black typography",
+    "17": "black background / white typography"
+  },
+  "artistOrder": [
+    "Bill Aitchison",
+    "Cai Qing",
+    "Claudelle T.",
+    "Éric Létourneau Dumaine",
+    "Highest",
+    "Julie Andrée T.",
+    "KIMVI Jin Wei",
+    "Lü Desheng",
+    "Marianne Papst",
+    "Wu Yiqiang",
+    "Yi Fang",
+    "（）"
+  ],
+  "logo": "assets/open-logo-original.png used as the central OPEN visual",
+  "textCorrections": [
+    "Highest",
+    "（）",
+    "Mia"
+  ]
 }

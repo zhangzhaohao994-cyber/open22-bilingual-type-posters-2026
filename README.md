@@ -1,14 +1,7 @@
-# OPEN 22 双语大字文字海报｜15 个全新版式
+# OPEN 22 双语文字海报｜17 版
 
-这是第 22 届 OPEN 国际行为艺术节的第三轮 15 张无框纯文字海报。全部使用中英双语：01–10 以中文为主视觉，11–15 以英文为主视觉。每张都重新建立版面骨架，撤销重复方格、卡片、逐行横线和统一页脚；艺术家、团队、策展人、时间、地点、主协办和摄影摄像全部进入主要构图。
+本包包含 17 张 1200×1800 PNG 海报。新增 16、17 两版依据选定参考排版重构：16 为白底黑字，17 为黑底白字。
 
-- `01.png` 至 `15.png`：1200 × 1800 PNG
-- `index.html`：在线挑选与放大查看页面
-- `design-prompt.md`：本轮专业设计提示词
-- `research.md`：审美研究与开源工具依据
-- `contact-sheet.png`：15 版总览
-- `OPEN22-bilingual-large-type-complete.zip`：含可编辑 HTML/CSS、字体许可、15 张 PNG 与研究文档的完整包
+两张新增海报均使用用户提供的 OPEN Logo，12 位艺术家依英文名 A–Z 排列，符号姓名（）置于字母姓名之后；8 位 OPEN 艺术节团队成员全部入版。
 
-在线页面：<https://zhangzhaohao994-cyber.github.io/open22-bilingual-type-posters-2026/>
-
-文字校订：`Highest`、`（）`、`Mia`。
+文字校订：Highest；（）；Mia。
