@@ -1,14 +1,11 @@
 {
   "date": "2026-10-17",
+  "revision": "borderless-v2",
   "posterCount": 15,
   "dimensions": "1200x1800",
-  "requiredPerPoster": {
-    "artists": 12,
-    "teamMembers": 8,
-    "facts": 7
-  },
+  "requiredPerPoster": {"artists": 12, "teamMembers": 8, "facts": 7},
   "copyCorrections": ["Highest", "（）", "Mia"],
-  "automatedChecks": "passed",
-  "visualReview": "passed",
-  "note": "Poster 02 uses CSS vertical writing mode; browser scroll metrics flag the vertical artist columns although all names are visible in the rendered PNG."
+  "minimumTypeSizes": "passed",
+  "visualTitleCollisionReview": "passed after repairs to posters 07, 08, 11 and 12",
+  "designChange": "Removed repeated boxes, cards, row rules and shared footer templates; rebuilt layouts as continuous typographic fields."
 }
