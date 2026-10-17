@@ -1,6 +1,6 @@
 {
-  "revision": "17-poster-reference-pair",
-  "posterCount": 17,
+  "revision": "18-poster-hybrid-logo-wall",
+  "posterCount": 18,
   "dimensions": "1200x1800",
   "requiredCounts": {
     "artists": 12,
@@ -30,5 +30,11 @@
     "Highest",
     "（）",
     "Mia"
-  ]
+  ],
+  "newPoster18": {
+    "top": "edition + central original OPEN logo + bilingual festival title",
+    "lower": "continuous artist stream + team + two-column facts",
+    "background": "8 semi-transparent OPEN logos per row, repeated from top to bottom",
+    "providedSpelling": "highest"
+  }
 }
